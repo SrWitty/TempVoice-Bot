@@ -1,0 +1,35 @@
+{
+  "name": "discord_temp_vcs",
+  "version": "1.0.2",
+  "description": "Discord Temp voice bot, that makes voice channel easy to create, manage, and change regions.",
+  "main": "tempVC.js",
+  "scripts": {
+    "test": "node tempVC.js",
+    "start": "node tempVC.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iim7md11/TempVoice-Bot.git"
+  },
+  "keywords": [
+    "Discord_Bot",
+    "Discord-js-v14",
+    "Discord_Buttons",
+    "TempVC",
+    "Temp voice channel",
+    "24/7_Online",
+    "Button_interactions"
+  ],
+  "author": "iiShadow",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/iim7md11/TempVoice-Bot/issues"
+  },
+  "homepage": "https://github.com/iim7md11/TempVoice-Bot",
+  "dependencies": {
+    "@discordjs/rest": "^0.1.0-canary.0",
+    "discord-api-types": "^0.37.43",
+    "discord.js": "^14.11.0",
+    "level": "^8.0.0"
+  }
+}
